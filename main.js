@@ -52,7 +52,7 @@ function realizarPedido() {
         
     }    
 }
-realizarPedido()
+realizarPedido();
 
 let domicilio = prompt ("Ingresa tu domicilio por Favor");
 console.log("EL ENVIO SE REALIZARÁ A: "+domicilio);
